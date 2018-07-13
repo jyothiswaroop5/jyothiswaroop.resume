@@ -3,12 +3,47 @@
   <head>
     <meta charset="utf-8">
     <title></title>
+    <style media="screen">
+    .flexParent{
+      display:flex;
+      flex-direction:row;
+      justify-content:center;
+    }
+    .child1{
+      width:30%;
+    margin:2%;
+    padding:2%;
+    border:2px solid #ddd;
+    }
+    .child2{
+      width:70%;
+    margin:2%;
+    padding:2%;
+    border:2px solid #ddd;
+    }
+    img{
+      width:50%;
+      height:auto;
+      display:block;
+
+      margin-right:auto;
+      margin-left:auto;
+      border-radius:50%;
+    }
+    </style>
   </head>
   <body>
-    <h1> resume </h1>
+   <h1> resume </h1>
     <h2>swaroop</h2>
     <h3>hanuman </h3>
     <h4> welcom to avanthi</h4>
-
+  <div class="flexParent">
+       <div class="child1">
+       <img src="images/images.jpeg">
+       <h2> swaroop</h2>
+       <h3>welcome to cse dept</h3>
+     </div>
+       <div class="child2">B</div>
+    </div>
   </body>
 </html>
