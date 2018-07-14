@@ -1,0 +1,49 @@
+{
+"basics":{
+  "name":"swaroop",
+  "email":"jyothiswaroop37@gmail.com",
+  "mobile":"9550599913"
+},
+"career":{
+  "info":"To pursue a challenging career and be part of a progressive organization that gives scope to enhance my knowledge, skills and to reach the pinnacle in the computing and research field with sheer determination, dedication and hard work."
+},
+"education":[{
+  "Degree":"B.tech(C.S.E)",
+  "institute":"Avanthi institute of eng",
+  "Duration" :["2015-2019","75%"]
+},
+{
+  "Degree":"Intermediate(M.P.C)",
+  "institute":"R.C.M st johns junior college",
+  "Duration" :["2012-2014","77%"]
+},
+{
+  "Degree":"SSC",
+  "institute":"Adarsa Model school",
+  "Duration" :["2012","82%"]
+}
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "info":["c","c++","java","python"]
+  },
+  {
+    "title":" Data bases",
+    "info":["mongoDB","mysql","oracle"]
+
+  },
+  {
+    "title":"Web Technologies",
+    "info":["HTML5","CSS3","javascript","PHP"]
+  },
+  {
+    "title":"libraries and Frameworks",
+    "info":["ionic","angular","express",".net"]
+  },
+  {
+    "title":"Operating Systems",
+    "info":["linux","windows","DOS"]
+  }
+]
+}
